@@ -1,14 +1,14 @@
-# Exemplo de Design de Arquitetura
+# Design de Arquitetura
 
 ![exemplo_arq.jpg](https://github.com/kterra/Inteli-2024-1B/blob/main/materiais/ponderada-2/exemplo-arq-v2.jpg)
 
 Link de download Draw.io: (https://drive.google.com/file/d/1hQliuMZirU0yiKzAr0d_5koE5qVwEQ2K/view?usp=sharing) 
 
-# Template Readme para Arquitetura MVC em Markdown
-- Nome do Projeto: [Insira o nome do seu projeto]
+# Arquitetura MVC
+- Nome do Projeto: TechBridge
 - Descrição: [Insira uma breve descrição do seu projeto]
 - Arquitetura: MVC (Model-View-Controller)
-- Ferramenta de Diagramação: [Insira a ferramenta de diagramação utilizada, ex: draw.io]
+- Ferramenta de Diagramação: draw.io
 
 ### Modelos (Models):
 - Descreva as entidades do seu projeto e seus atributos.
