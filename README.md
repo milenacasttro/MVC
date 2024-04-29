@@ -1,6 +1,6 @@
 # Design de Arquitetura
 
-![exemplo_arq.jpg](https://github.com/kterra/Inteli-2024-1B/blob/main/materiais/ponderada-2/exemplo-arq-v2.jpg)
+<img src="MVC_ponderada.drawio.png">
 
 Link do diagrama no Draw.io: (https://drive.google.com/file/d/1OwpdrphHBkzYyqSsLqxjPUiNQrL5-BEv/view?usp=sharing) 
 
